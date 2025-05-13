@@ -16,7 +16,7 @@ class ReactWidget extends HTMLElement {
     const container = document.createElement("div");
     const link = document.createElement("link");
     link.rel = "stylesheet";
-    link.href = "https://1gsd4q52-5173.inc1.devtunnels.ms/dist/style.css";
+    link.href = "https://ravan-multi-thunder-widget.vercel.app/style.css";
 
     // Append the stylesheet and container to the Shadow DOM
     this.shadowRoot?.appendChild(link);
