@@ -77,28 +77,28 @@ export const mockCards: CardInterface[] = [
   {
     id: 9,
     title: "Retail",
-    description: "Gaming and entertainment platforms",
+    description: "Fashion, Beauty, and Lifestyle",
     imageUrl: "#FF8A65", // Soft Orange
     icon: Gamepad,
     tags: ["Entertainment", "Games"],
-    agent_code: "1234567890",
+    agent_code: "6af30ad4-a50c-4acc-8996-d5f562b6987f",
   },
   {
     id: 10,
     title: "Hospitality",
-    description: "Gaming and entertainment platforms",
+    description: "Restaurants & Catering",
     imageUrl: "#FF8A65", // Soft Orange
     icon: Gamepad,
     tags: ["Entertainment", "Games"],
-    agent_code: "1234567890",
+    agent_code: "f4e67a33-324b-45ff-8ca8-336b3cffe34e",
   },
   {
     id: 11,
     title: "Recruitment",
-    description: "Gaming and entertainment platforms",
+    description: "Job Placement & Talent Acquisition",
     imageUrl: "#FF8A65", // Soft Orange
     icon: Gamepad,
     tags: ["Entertainment", "Games"],
-    agent_code: "1234567890",
+    agent_code: "6af30ad4-a50c-4acc-8996-d5f562b6987f",
   },
 ];

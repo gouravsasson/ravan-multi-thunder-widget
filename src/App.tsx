@@ -25,6 +25,10 @@ function App() {
   });
 
   const handleStart = async (agent_code: string) => {
+    if (sessionStatus !== "disconnected") {
+      handleEnd();
+    }
+
     try {
       if (!isListening) {
         const response = await axios.post(
