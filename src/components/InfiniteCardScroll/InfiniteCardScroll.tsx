@@ -225,7 +225,7 @@ export const InfiniteCardScroll: React.FC<InfiniteCardScrollProps> = memo(
 
     return (
       <div
-        className={`card-scroll-container ${className}`}
+        className={`card-scroll-container  relative ${className}`}
         onKeyDown={handleKeyDown}
         tabIndex={0}
         role="region"
