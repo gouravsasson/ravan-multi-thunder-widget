@@ -18,7 +18,7 @@ export const mockCards: CardInterface[] = [
     imageUrl: "#FF7043", // Light Orange
     icon: Sun,
     tags: ["Hotels", "Service"],
-    agent_code: "7ac6c9b-b5d9-4eb9-9950-9154fb32b163",
+    agent_code: "d7ac6c9b-b5d9-4eb9-9950-9154fb32b163",
   },
   {
     id: 3,
@@ -81,7 +81,7 @@ export const mockCards: CardInterface[] = [
     imageUrl: "#FF8A65", // Soft Orange
     icon: Gamepad,
     tags: ["Entertainment", "Games"],
-    agent_code: "6af30ad4-a50c-4acc-8996-d5f562b6987f",
+    agent_code: "1f8ef39b-bd81-4830-90e0-dea0ecfe6ea7",
   },
   {
     id: 10,
@@ -99,6 +99,6 @@ export const mockCards: CardInterface[] = [
     imageUrl: "#FF8A65", // Soft Orange
     icon: Gamepad,
     tags: ["Entertainment", "Games"],
-    agent_code: "6af30ad4-a50c-4acc-8996-d5f562b6987f",
+    agent_code: "c8d5525a-5907-4bd0-8389-5574c88062c8",
   },
 ];
