@@ -5,7 +5,8 @@ export interface CardInterface {
   title: string;
   description: string;
   imageUrl: string;
-  icon: LucideIcon;
+  icon: typeof LucideIcon;
+  route:string;
   tags?: string[];
   link?: string;
   agent_code: string;
